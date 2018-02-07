@@ -1,0 +1,21 @@
+{
+  "name": "brite-parser",
+  "version": "1.0.0",
+  "description": "parses data from battlerite api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "battlerite-dev": "^1.0.2",
+    "battlerite.js": "^3.1.1",
+    "dotenv": "^4.0.0",
+    "lodash": "^4.17.4",
+    "mongodb": "^3.0.0-rc0",
+    "mongoose": "^4.13.7",
+    "repeat": "0.0.6"
+  }
+}

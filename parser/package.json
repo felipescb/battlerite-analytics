@@ -14,7 +14,7 @@
     "battlerite.js": "^3.1.1",
     "dotenv": "^4.0.0",
     "lodash": "^4.17.4",
-    "mongodb": "^3.0.0-rc0",
+    "mongodb": "^3.1.13",
     "mongoose": "^4.13.7",
     "repeat": "0.0.6"
   }
